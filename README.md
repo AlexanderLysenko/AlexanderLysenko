@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Alexander and I love to study new things 👋
 
 <!--
 **AlexanderLysenko/AlexanderLysenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
